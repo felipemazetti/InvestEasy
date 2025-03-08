@@ -79,4 +79,4 @@
 <hr>
 
 <h2>Author</h2>
-<p>Developed by <strong>[Your Name]</strong>. For inquiries or feedback, please reach out via <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+<p>Developed by <strong>Felipe Mazetti</strong>. For inquiries or feedback, please reach out via <a href="mailto:felipemazetti.dev@gmail.com">felipemazetti.dev@gmail.com</a>.</p>
